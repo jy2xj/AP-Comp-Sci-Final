@@ -145,6 +145,8 @@ public class PanelGoT extends JPanel
          eig = 0;
          nin = 0;
          ten = 0;
+         output.setText("Offense Points: " + opoints + "   " + "Defense Points/Turns Gone: " + dpoints 
+         +"   Numbers used by computer: " + java.util.Arrays.toString(used));
       }
    }
    //Listener4 through Listener13 is Offense

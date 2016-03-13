@@ -7,7 +7,7 @@ public class DriverGoT
    public static void main(String[] args)
    {
       JFrame frame = new JFrame("Game of Ten");
-      frame.setSize(725,400);
+      frame.setSize(1250,400);
       frame.setLocation(200,100);
       frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
       frame.setContentPane(new PanelGoT());
