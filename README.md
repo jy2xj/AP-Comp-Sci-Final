@@ -15,5 +15,5 @@ Neither side can choose a number twice
 <h4>Buttons:</h4>
 Attack (coming soon), Defense (click to start the game), 1-10 (Click to make your choice of number), Restart (restart the game)
 <h3>Details</h3>
-Game was created May-June(2015) of my senior year in HS.
+My name is Joshua Ya. This game was created May-June(2015) of my senior year in HS as the final project. Currently, I am a student at the University of Virginia. I tried to make an original game instead of remaking a standard game, and this is what it came out to be. I hope you enjoy playing it! 
 <h2>Good Luck and Have Fun!</h2>
